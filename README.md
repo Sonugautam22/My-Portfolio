@@ -27,7 +27,7 @@ This is my personal portfolio website showcasing my projects, skills, and experi
 You can view and download my resume directly from the portfolio.
 
 ##  Live Website
-(After hosting, add your Netlify link here)
+https://insightbysonu.netlify.app/
 
 ## Contact
 Feel free to connect with me:
